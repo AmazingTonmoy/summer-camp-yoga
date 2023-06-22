@@ -1,0 +1,8 @@
+.card {
+    margin: 0;
+    padding: 0;
+  }
+
+  .imgBtn a, img{
+    padding-bottom: 0px;
+  }

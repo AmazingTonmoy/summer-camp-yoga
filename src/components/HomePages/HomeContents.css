@@ -1,0 +1,42 @@
+.container-full {
+
+  }
+  
+ 
+  
+  .light-theme {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .light-theme .slider {
+    
+  }
+  
+  .light-theme .popular-class {
+   
+  }
+  
+  .light-theme .popular-instructor {
+    
+  }
+  
+  /* Dark theme styles */
+  
+  .dark-theme {
+    background-color: #222222;
+    color: #ffffff;
+  }
+  
+  .dark-theme .slider {
+   
+  }
+  
+  .dark-theme .popular-class {
+   
+  }
+  
+  .dark-theme .popular-instructor {
+   
+  }
+  

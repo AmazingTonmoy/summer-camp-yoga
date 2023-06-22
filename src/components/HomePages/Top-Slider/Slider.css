@@ -1,0 +1,17 @@
+.slider-img {
+    height: 700px; /* set your preferred height */
+    object-fit: cover;
+    
+    
+  }
+
+  .slider-text{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    filter: brightness(50px);
+    text-shadow: #bb0b0b;
+   
+  }
+
+
